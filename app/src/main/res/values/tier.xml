@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tier">
+        <item>Challenger</item>
+        <item>GrandMaster</item>
+        <item>Master</item>
+        <item>Diamond</item>
+        <item>Platinum</item>
+        <item>Gold</item>
+        <item>Silver</item>
+        <item>Bronze</item>
+        <item>Iron</item>
+    </string-array>
+</resources>

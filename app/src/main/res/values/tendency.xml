@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tendency">
+        <item>즐겜</item>
+        <item>빡겜</item>
+        <item>상관없음</item>
+    </string-array>
+</resources>

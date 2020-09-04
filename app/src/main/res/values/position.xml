@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="position">
+        <item>top</item>
+        <item>jungle</item>
+        <item>mid</item>
+        <item>bottom</item>
+        <item>support</item>
+    </string-array>
+</resources>

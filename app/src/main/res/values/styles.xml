@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">#19A5D9EC</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="NoActionbar" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">#F1F1F1</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorControlHighlight">#FFFFFF</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="MatchRoom" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">#F7F7F7</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorControlHighlight">#FFFFFF</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowSharedElementEnterTransition">@transition/custom_trans</item>
+        <item name="android:windowSharedElementExitTransition">@transition/custom_trans</item>
+    </style>
+
+    <style name="MatchchatRoom" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/chatcolor</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorControlHighlight">#FFFFFF</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+</resources>

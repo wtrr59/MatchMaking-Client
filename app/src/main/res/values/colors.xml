@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="MatchButtonColor">#FFEB3B</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="viewline">#F1F1F1</color>
+    <color name="chatcolor">#B1C6E2</color>
+    <color name="canclecolor">#9C9C9C</color>
+</resources>

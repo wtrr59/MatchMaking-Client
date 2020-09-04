@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">롤큐</string>
+    <string name="serverURL">http://192.249.19.251:8780</string>
+</resources>
